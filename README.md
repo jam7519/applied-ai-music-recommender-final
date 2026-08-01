@@ -83,6 +83,33 @@ Score: 3.42
 Score: 3.38
 ```
 
+### Example 2
+
+```text
+User Profile:
+Genre: rock
+Mood: intense
+Energy: 0.9
+
+Top recommendations:
+
+1. Storm Runner
+Score: 6.90
+
+2. Gym Hero
+Score: 4.39
+
+3. Night Drive Loop
+Score: 3.56
+
+4. Sunrise City
+Score: 3.31
+
+5. Rooftop Lights
+Score: 3.19
+```
+
+
 **Screenshot or video** *(optional)*: <!-- Insert a screenshot or demo video link here -->
 
 ---
